@@ -5,3 +5,9 @@ My current projects are [MiniBoy](https://github.com/byAd12/MiniBoy) and Swag-in
 
 # My stats
 ![byAd12's GitHub stats](https://github-readme-stats.vercel.app/api?username=byAd12&show_icons=true&theme=merko)
+
+# Links
+
+* [Discord](https://discord.gg/gG3DnUfj6E)
+* [Twitter](https://twitter.com/MiniBoy_Bot)
+* [MiniBoy](https://dsc.gg/miniboy)
