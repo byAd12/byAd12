@@ -6,7 +6,7 @@ My current projects are [MiniBoy](https://github.com/byAd12/MiniBoy) and Swag-in
 # My stats
 ![byAd12's GitHub stats](https://github-readme-stats.vercel.app/api?username=byAd12&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&layout=compact)](https://github.com/byAd12)
 
 # Links
 
