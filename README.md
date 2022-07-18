@@ -13,3 +13,4 @@ My current projects are [MiniBoy](https://github.com/byAd12/MiniBoy) and Swag-in
 * [Discord](https://discord.gg/gG3DnUfj6E)
 * [Twitter](https://twitter.com/MiniBoy_Bot)
 * [MiniBoy](https://dsc.gg/miniboy)
+* [Patreon](https://www.patreon.com/MiniBoy)
