@@ -1,7 +1,7 @@
 # About me
 
 I'm Ad and I like to code random things.
-My current projects are [MiniBoy](https://github.com/byAd12/MiniBoy) and [Swag-ing]().
+My current projects are [MiniBoy](https://github.com/byAd12/MiniBoy) and [Swag-ing](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley).
 
 # My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byAd12&theme=merko&hide_border=true&fire=010BDD)](https://git.io/streak-stats)
