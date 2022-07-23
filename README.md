@@ -6,7 +6,6 @@ My current projects are [MiniBoy](https://github.com/byAd12/MiniBoy) and [Swag-i
 # My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byAd12&theme=merko&hide_border=true&fire=010BDD)](https://git.io/streak-stats)
 
-
 # Links
 
 * [Discord Server](https://discord.gg/gG3DnUfj6E)
