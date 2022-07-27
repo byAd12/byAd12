@@ -1,7 +1,7 @@
 # About me
 
 I'm Ad and I like to code random things.
-I'm currently working on [MiniBoy](https://github.com/byAd12/MiniBoy), [Swag-ing](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and a docs age.
+I'm currently working on [MiniBoy](https://github.com/byAd12/MiniBoy), [Swag-ing](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and a documents page.
 
 # My stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byAd12&theme=merko&hide_border=true&fire=010BDD)](https://git.io/streak-stats)
