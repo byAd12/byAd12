@@ -14,4 +14,4 @@ I'm currently working on [MiniBoy](https://github.com/byAd12/MiniBoy), [Swag-ing
 * [Patreon](https://www.patreon.com/MiniBoy)
 
 
-<iframe src="https://discord.com/widget?id=871060972532559962&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[<iframe src="https://discord.com/widget?id=871060972532559962&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>](https://discord.com/api/guilds/871060972532559962/widget.json)
