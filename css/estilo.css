@@ -5,8 +5,8 @@ body{
 
 .menu{
     list-style: none;
-    text-align: center;
     background: #092327;
+    text-align: center;
     width: 90%;
     max-width: 1000px;
     margin: auto;
@@ -20,6 +20,10 @@ body{
 }
 
 .menu li{
+  display: inline-block;
+}
+
+.titulo{
   display: inline-block;
   text-align: left;
   color: green;
