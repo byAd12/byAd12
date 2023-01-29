@@ -19,14 +19,10 @@ body{
     display: block;
 }
 
-.titulo-nav-list{
-    text-align: left;
-    color: green;
-}
-
 .menu li{
   display: inline-block;
-  text-align: center;
+  text-align: left;
+  color: green;
 }
 
 .menu li a:hover{
