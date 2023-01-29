@@ -30,6 +30,6 @@ body{
 }
 
 .menu li a:hover{
-  background: blue;
+  background: greenyellow;
   color: black;
 }
