@@ -11,3 +11,10 @@ body{
     max-width: 1000px;
     margin: auto;
 }
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
