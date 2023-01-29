@@ -19,6 +19,10 @@ body{
     display: block;
 }
 
+.menu li titulo{
+    text-align: left;
+}
+
 .menu li{
   display: inline-block;
   text-align: center;
