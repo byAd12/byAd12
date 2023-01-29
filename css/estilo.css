@@ -5,7 +5,7 @@ body{
 
 .menu{
     list-style: none;
-    padding: 200;
+    text-align: center;
     background: #092327;
     width: 90%;
     max-width: 1000px;
