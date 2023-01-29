@@ -1,9 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-
-t1 {
-    color: green;
-    text-align: center;
+body{
+    font-family: arial, helvetica;
+    background: #e8e8e8;
 }
