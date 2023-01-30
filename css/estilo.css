@@ -11,8 +11,6 @@ nav{
   font-family: Arial;
   align-items: center;
   justify-content: space-between;
-  padding-left: 10%;
-  padding-right: 10%;
 }
 nav ul li{
   list-style-type: none;
