@@ -1,7 +1,7 @@
 .hero{
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(img/logo.ico);
+  background-image: url(img/logo.ico);
   background-position: center;
   backgorund-size: cover;
   
@@ -11,6 +11,8 @@ nav{
   font-family: Arial;
   align-items: center;
   justify-content: space-between;
+  padding: 10%;
+  width: 10%;
 }
 nav ul li{
   list-style-type: none;
