@@ -54,7 +54,7 @@ nav a{
 .banner h2{
     padding-top: 8%;
     font-size: 70px;
-    font-family: poppins;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
     color: white;
 }
@@ -74,6 +74,6 @@ nav a{
 }
 .content p{
     padding: 2% 0;
-    font-family: merienda;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     line-height: 30px;
 }
