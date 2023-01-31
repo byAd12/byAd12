@@ -27,7 +27,7 @@ header{
     font-size: 30px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
 }
 nav{
     float: right;
@@ -36,7 +36,6 @@ nav{
 nav a{
     text-decoration: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    letter-spacing: 4px;
     font-size: 20px;
     margin: 0 10px;
     color: white;   
