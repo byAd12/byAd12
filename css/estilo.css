@@ -50,7 +50,7 @@ nav a{
     height: 500px;
     position: fixed;
     top: 100px;
-    background-image: url(img/logo.ico);
+    background-image: url(css/img/logo.png);
     -webkit-background-size: cover;
     background-position: center center;
     background-size: cover;
