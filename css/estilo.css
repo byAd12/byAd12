@@ -87,12 +87,10 @@ nav a{
 }
 .footer{
     background-color: #262626;
-}
-.footer p{
     text-align: center;
     font-size: 10px;
     margin: 0 6px;
 }
-.footer p:hover{
+.footer:hover{
     background-color: black;
 }
