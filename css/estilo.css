@@ -42,11 +42,12 @@ nav a{
 }
 .buttonw{
     cursor: pointer;
-    border-radius: 10px;
+    border-radius: 0px;
     background-color: #262626;
 }
 .buttonw:hover{
-    font-size: 25px;
+    font-size: 28px;
+    color: red;
     background-color: green;
 }
 .banner{
