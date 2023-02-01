@@ -90,7 +90,9 @@ nav a{
     text-align: center;
     font-size: 10px;
     margin: 0 6px;
+    color: white;
 }
 .footer:hover{
-    background-color: black;
+    background-color: green;
+    transition: 2s;
 }
