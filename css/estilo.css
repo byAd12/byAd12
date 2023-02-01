@@ -42,7 +42,8 @@ nav a{
 }
 .buttonw{
     cursor: pointer;
-    border-radius: 0px;
+    border-radius: 10px;
+    border-width: 0px;
     background-color: #262626;
 }
 .buttonw:hover{
