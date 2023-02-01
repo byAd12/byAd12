@@ -51,7 +51,7 @@ nav a{
 }
 .banner{
     width: 100%;
-    height: 500px;
+    height: 750px;
     position: fixed;
     top: 100px;
     background-image: url(css/img/logo.png);
@@ -84,4 +84,15 @@ nav a{
     padding: 2% 0;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     line-height: 30px;
+}
+.footer{
+    background-color: #262626;
+}
+.footer p{
+    text-align: center;
+    font-size: 10px;
+    margin: 0 6px;
+}
+.footer p:hover{
+    background-color: black;
 }
