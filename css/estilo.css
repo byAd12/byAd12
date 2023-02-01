@@ -40,10 +40,14 @@ nav a{
     margin: 0 10px;
     color: white;   
 }
-.nav a:hover{
-    color: red;
+.buttonw{
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: black;
+}
+.buttonw:hover{
     font-size: 25px;
-    transition: 3s;
+    background-color: green;
 }
 .banner{
     width: 100%;
