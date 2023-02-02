@@ -4,7 +4,7 @@ I'm Ad and I like to code random things.
 I'm currently working on [MiniBoy](https://miniboy.lol) and [byad12.com](https://y.byad12.com).
 
 ## My stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=byAd12&theme=merko&hide_border=true&fire=010BDD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=byad12&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Links
 
