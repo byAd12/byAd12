@@ -6,6 +6,7 @@
 
 body{
   font-family: sans-serif;
+  -webkit-user-select: none;
 }
 
 
@@ -17,6 +18,9 @@ body{
   align-items: center;
   justify-content: space-between;
   padding: 0 5%;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
 
 .logo{
@@ -46,4 +50,53 @@ body{
 
 .menu_bar ul li a:hover{
   color: #0073ff;
+  font-size: 19px;
+}
+
+.fondo{
+  background-image: url("https://avatars.githubusercontent.com/u/92215714?s=400&u=7696b79d8889e8d7bb23feb2822d6f06c2f52b58&v=4");
+  align-items: center;
+  height: 500px;
+}
+
+.fondo h2{
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 70px;
+  color: #e9e9e9;
+}
+
+.fondo h2 span{
+  color: greenyellow;
+}
+
+.buttonw1{
+  border-radius: 5px;
+  background-color: #6f79ff;
+  border-width: 4px;
+  border-color: white;
+}
+
+.buttonw1 a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding: 4px;
+  transition: 2s;
+  justify-content: center;
+}
+
+.buttonw1 a:hover{
+  color: blue;
+  font-size: 22px;
+  transition: 2s;
+}
+
+.footer{
+  text-align: center;
+  background-color: #141d28;
+  color: white;
+  padding: 8px;
 }
