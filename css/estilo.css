@@ -8,8 +8,10 @@ html, body{
   font-family: sans-serif;
   height: 100%;
   -webkit-user-select: none;
+  user-select: none;
 }
 
+/* NAV BAR Y FONDO */
 
 .menu_bar{
   background-color: #141d28;
@@ -100,12 +102,85 @@ html, body{
   transition: 2s;
 }
 
+/* PROYECTOS */
+
+.projects{
+  display: inline-block;
+  background-color: #e9e9e9;
+  border-radius: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.separador{
+  padding: 20px;
+}
+
+.projects-title{
+  text-align: center;
+  padding: 20px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+
+.projects-list{
+  display: flex;
+  list-style: none;
+  padding: 20px 20px;
+}
+
+.projects-list h2{
+  text-align: center;
+}
+
+.projects-list li{
+  transition: 0.8s;
+  border-radius: 20px;
+  background-color:darkslategray;
+}
+
+.projects-list li:hover{
+  background-color: #6f79ff;
+}
+
+.uno:hover{
+  transform: perspective(1000px) rotateY(-15deg);
+  background-size: 90;
+  transition: 0.8s;
+}
+
+.dos:hover{
+  transform: perspective(800px) rotateX(-15deg);
+  transition: 0.8s;
+}
+
+.tres:hover{
+  transform: perspective(800px) rotateY(15deg);
+  transition: 0.8s;
+}
+
+/* FOOTER */
+
 .footer{
   text-align: center;
   background-color: #141d28;
   color: white;
   padding: 8px;
-  position: absolute;
   bottom: 0;
   width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  opacity: 100%;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px black; 
+  transition: 0.5s;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: greenyellow;
+  transition: 0.4s; 
+  border-radius: 20px;
 }
