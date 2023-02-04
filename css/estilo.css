@@ -56,7 +56,8 @@ html, body{
 
 .fondo{
   background-image: url("https://avatars.githubusercontent.com/u/92215714?s=400&u=7696b79d8889e8d7bb23feb2822d6f06c2f52b58&v=4");
-  background-size: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
   align-items: center;
   background-position: center;
   display: flex;
