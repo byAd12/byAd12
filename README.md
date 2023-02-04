@@ -10,7 +10,7 @@ I'm currently working on [MiniBoy](https://miniboy.lol) and [byad12.com](https:/
 
 ## My stats
 ![byAd12's stats](https://github-readme-stats.vercel.app/api?username=byad12&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&layout=compact)](https://github.com/byad12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&layout=compact&bg_color=transparent)](https://github.com/byad12)
 
 ## Links
 
