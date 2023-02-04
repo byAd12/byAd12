@@ -10,6 +10,8 @@ I'm currently working on [MiniBoy](https://miniboy.lol) and [byad12.com](https:/
 
 ## My stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=byad12&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![byAd12's stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 ## Links
 
