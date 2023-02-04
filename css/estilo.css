@@ -11,6 +11,22 @@ html, body{
   user-select: none;
 }
 
+::-webkit-scrollbar {
+  width: 7px;
+  opacity: 100%;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px black; 
+  transition: 0.5s;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: greenyellow;
+  transition: 0.4s; 
+  border-radius: 20px;
+}
+
 /* NAV BAR Y FONDO */
 
 .menu_bar{
@@ -117,45 +133,68 @@ html, body{
 
 .projects-title{
   text-align: center;
-  padding: 20px;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 30px;
+  transition: 0.3s;
 }
 
-.projects-list{
+.projects-title:hover{
+  transform: perspective(1000px) rotateX(25deg) rotateY(5deg);
+  background-size: 90;
+  transition: 0.3s;
+  font-size: 33px;
+}
+
+/* PROYECTOS - CAJAS */
+
+.cajas{
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 40px;
   display: flex;
-  list-style: none;
-  padding: 20px 20px;
 }
 
-.projects-list h2{
-  text-align: center;
-}
-
-.projects-list li{
-  transition: 0.8s;
+.caja-1{
+  background-color:#343a41;
+  margin: 10px;
   border-radius: 20px;
-  background-color:darkslategray;
+  padding: 10px;
+  transition: 0.3s;
 }
 
-.projects-list li:hover{
-  background-color: #6f79ff;
-}
-
-.uno:hover{
+.caja-1:hover{
   transform: perspective(1000px) rotateY(-15deg);
   background-size: 90;
-  transition: 0.8s;
+  transition: 0.3s;
 }
 
-.dos:hover{
-  transform: perspective(800px) rotateX(-15deg);
-  transition: 0.8s;
+.caja-2{
+  background-color: #343a41;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  transition: 0.3s;
 }
 
-.tres:hover{
-  transform: perspective(800px) rotateY(15deg);
-  transition: 0.8s;
+.caja-2:hover{
+  transform: perspective(1000px) rotateX(10deg);
+  background-size: 90;
+  transition: 0.3s;
+}
+
+.caja-3{
+  background-color: #343a41;
+  margin: 10px;
+  border-radius: 20px;
+  padding: 10px;
+  transition: 0.3s;
+}
+
+.caja-3:hover{
+  transform: perspective(1000px) rotateY(15deg);
+  background-size: 90;
+  transition: 0.3s;
 }
 
 /* FOOTER */
@@ -167,20 +206,4 @@ html, body{
   padding: 8px;
   bottom: 0;
   width: 100%;
-}
-
-::-webkit-scrollbar {
-  width: 7px;
-  opacity: 100%;
-}
-
-::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px black; 
-  transition: 0.5s;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: greenyellow;
-  transition: 0.4s; 
-  border-radius: 20px;
 }
