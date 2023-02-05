@@ -155,6 +155,19 @@ html, body{
   display: flex;
 }
 
+.cajas p{
+  color: #e9e9e9;
+}
+
+.cajas h2{
+  color: greenyellow;
+
+}
+
+.cajas h2{
+  text-align: center;
+}
+
 .caja-1{
   background-color:#343a41;
   margin: 10px;
@@ -166,6 +179,7 @@ html, body{
 .caja-1:hover{
   transform: perspective(1000px) rotateY(-15deg);
   background-size: 90;
+  font-size: 19px;
   transition: 0.3s;
 }
 
@@ -180,6 +194,7 @@ html, body{
 .caja-2:hover{
   transform: perspective(1000px) rotateX(10deg);
   background-size: 90;
+  font-size: 19px;
   transition: 0.3s;
 }
 
@@ -194,6 +209,7 @@ html, body{
 .caja-3:hover{
   transform: perspective(1000px) rotateY(15deg);
   background-size: 90;
+  font-size: 19px;
   transition: 0.3s;
 }
 
