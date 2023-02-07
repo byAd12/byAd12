@@ -184,6 +184,17 @@ html, body{
   transition: 0.4s;
 }
 
+/* PROYECTOS */
+
+.projecto-uno p {
+   text-align: justify;
+} 
+
+.projecto-uno img {
+   float: right;
+   margin-left: 10px;
+}
+
 /* FOOTER */
 
 .footer{
