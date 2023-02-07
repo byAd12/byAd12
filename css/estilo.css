@@ -117,6 +117,7 @@ html, body{
 .fondo-img img{
   height: 250px;
   width: 250px;
+  border-radius: 19px;
 }
 
 .fondo h2 span{
@@ -147,101 +148,6 @@ html, body{
   background-color: #e9e9e9;
   color: black;
   transition: 0.4s;
-}
-
-/* PROYECTOS */
-
-.projects{
-  display: inline-block;
-  background-color: #e9e9e9;
-  border-radius: 20px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-.separador{
-  padding: 20px;
-}
-
-.projects-title{
-  text-align: center;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 30px;
-  transition: 0.3s;
-}
-
-.projects-title:hover{
-  transform: perspective(1000px) rotateX(25deg) rotateY(5deg);
-  background-size: 90;
-  transition: 0.3s;
-  font-size: 33px;
-}
-
-/* PROYECTOS - CAJAS */
-
-.cajas{
-  padding-top: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 40px;
-  display: flex;
-}
-
-.cajas p{
-  color: #e9e9e9;
-}
-
-.cajas h2{
-  color: #0073ff;
-
-}
-
-.cajas h2{
-  text-align: center;
-}
-
-.caja-1{
-  background-color:#343a41;
-  margin: 10px;
-  border-radius: 20px;
-  padding: 10px;
-  transition: 0.3s;
-}
-
-.caja-1:hover{
-  transform: perspective(1000px) rotateY(-15deg);
-  background-size: 90;
-  font-size: 19px;
-  transition: 0.3s;
-}
-
-.caja-2{
-  background-color: #343a41;
-  margin: 10px;
-  border-radius: 20px;
-  padding: 10px;
-  transition: 0.3s;
-}
-
-.caja-2:hover{
-  transform: perspective(1000px) rotateX(10deg);
-  background-size: 90;
-  font-size: 19px;
-  transition: 0.3s;
-}
-
-.caja-3{
-  background-color: #343a41;
-  margin: 10px;
-  border-radius: 20px;
-  padding: 10px;
-  transition: 0.3s;
-}
-
-.caja-3:hover{
-  transform: perspective(1000px) rotateY(15deg);
-  background-size: 90;
-  font-size: 19px;
-  transition: 0.3s;
 }
 
 /* FOOTER */
