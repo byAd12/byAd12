@@ -254,7 +254,7 @@ html, body{
 }
 
 .projects-project1{
-  margin-left: 300px;
+  margin-left: 100px;
   margin-right: 20px;
 }
 .projects-project2{
@@ -263,7 +263,7 @@ html, body{
 }
 .projects-project3{
   margin-left: 10px;
-  margin-right: 300px;
+  margin-right: 100px;
 }
 
 .projects-project1:hover, .projects-project2:hover, .projects-project3:hover{
