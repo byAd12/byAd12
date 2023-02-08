@@ -190,10 +190,33 @@ html, body{
   background-color: #343a41;
 }
 
-.projects/h2{
+.projects-h2{
   text-align: center;
   font-size: 30px;
   color: #e9e9e9;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.projects-list{
+  display: flex;
+}
+
+.projects-project1{
+  background-color: grey;
+  border-radius: 5px;
+  padding: 100px;
+  padding-top: 20px;
+  margin: 20px;
+  margin-left: 95px;
+  
+}
+.projects-project2, .projects-project3{
+  background-color: grey;
+  border-radius: 5px;
+  padding: 100px;
+  padding-top: 20px;
+  margin: 20px;
 }
 
 /* FOOTER */
