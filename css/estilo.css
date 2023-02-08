@@ -186,13 +186,14 @@ html, body{
 
 /* PROYECTOS */
 
-.projecto-uno p {
-   text-align: justify;
-} 
+.projects{
+  background-color: #343a41;
+}
 
-.projecto-uno img {
-   float: right;
-   margin-left: 10px;
+.projects/h2{
+  text-align: center;
+  font-size: 30px;
+  color: #e9e9e9;
 }
 
 /* FOOTER */
