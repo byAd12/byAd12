@@ -192,6 +192,7 @@ html, body{
   background-position: center;
   justify-content: center;
   height: 89vh;
+  align-items: center;
 }
 
 .projects-h2{
