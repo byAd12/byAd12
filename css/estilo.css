@@ -164,7 +164,7 @@ html, body{
   border-width: 0;
 }
 
-.fondo-botones a{
+.fondo-botones a, .projects-list a{
   display: flex;
   border-color: #0073ff;
   padding-left: 40px;
@@ -178,7 +178,7 @@ html, body{
   transition: 0.4s;
 }
 
-.fondo-botones a:hover{
+.fondo-botones a:hover, .projects-list a:hover{
   background-color: #e9e9e9;
   color: black;
   transition: 0.4s;
@@ -255,21 +255,6 @@ html, body{
 .projects-list span{
   color: #0073ff;
 }
-
-.projects-list a{
-  background-color: #0073ff;
-  border-radius: 5px;
-  padding: 5px;
-  text-decoration: none;
-  color: #e9e9e9;
-  transition: .2s;
-}
-
-.projects-list a:hover{
-  background-color: #529af2;
-  transition: .2s;
-}
-
 
 .projects-project1 hr{
   max-width: 400px;
