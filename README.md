@@ -5,7 +5,7 @@ I'm currently working on [MiniBoy](https://miniboy.lol) and [byad12.com](https:/
 
 ## Programming languages
 [![Python](https://www.quintagroup.com/++theme++quintagroup-theme/images/logo_python_section.png)](https://python.org)
-[![HTML](https://th.bing.com/th/id/R.42817ec095b69bb84d16ee097333e5d3?rik=VXHOK76twooHlQ&pid=ImgRaw&r=0)](https://html5.org)
+[![HTML](https://img.icons8.com/material-outlined/2x/html-5.png)](https://html5.org)
 [![CSS](https://www.proteusthemes.com/wp-content/uploads/2017/11/features-css-min.png)]()
 
 ## My stats
