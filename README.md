@@ -1,7 +1,6 @@
 # About me
 
-I'm Ad and I like to code random things.
-I'm currently working in [MiniBoy](https://miniboy.pages.dev) and [byad12.com](https://byad12.pages.dev).
+I like to code random things.
 
 ## Programming languages
 [![Python](https://www.quintagroup.com/++theme++quintagroup-theme/images/logo_python_section.png)](https://python.org)
