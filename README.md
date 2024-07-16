@@ -15,6 +15,5 @@ I'm currently working in [MiniBoy](https://miniboy.pages.dev) and [byad12.com](h
 ## Links
 
 * [Discord Server](https://discord.gg/gG3DnUfj6E)
-* [Twitter](https://twitter.com/MiniBoy_Bot)
-* [MiniBoy](https://dsc.gg/miniboy)
+* [Website](https://www.byad12.pages.dev)
 * [Patreon](https://www.patreon.com/MiniBoy)
