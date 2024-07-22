@@ -15,4 +15,4 @@ I like to code random things.
 
 * [Discord Server](https://discord.gg/gG3DnUfj6E)
 * [Website](https://www.byad12.pages.dev)
-* [Patreon](https://www.patreon.com/MiniBoy)
+* [Patreon](https://www.patreon.com/byAd12)
