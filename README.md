@@ -13,6 +13,5 @@ I like to code random things.
 
 ## Links
 
-* [Discord Server](https://discord.gg/gG3DnUfj6E)
-* [Website](https://www.byad12.pages.dev)
+* [Website](https://www.byad12.aili-ss.xyz)
 * [Patreon](https://www.patreon.com/byAd12)
