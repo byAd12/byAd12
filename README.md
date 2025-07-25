@@ -15,3 +15,5 @@ I like to code random things.
 
 * [Website](https://www.byad12.aili-ss.xyz)
 * [Patreon](https://www.patreon.com/byAd12)
+* [Ko-Fi]([https://www.patreon.com/byAd12](https://ko-fi.com/byad12))
+* [PayPal](https://www.paypal.com/donate/?hosted_button_id=9D8YV9UW5LYKQ)
