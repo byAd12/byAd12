@@ -8,8 +8,9 @@ I like to code random things.
 [![CSS](https://www.proteusthemes.com/wp-content/uploads/2017/11/features-css-min.png)]()
 
 ## My stats
-![byAd12's stats](https://github-readme-stats.vercel.app/api?username=byad12&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&layout=compact)](https://github.com/byad12)
+![byAd12's Stats](https://github-readme-stats.vercel.app/api?username=byAd12&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![byAd12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Links
 
