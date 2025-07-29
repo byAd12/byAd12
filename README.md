@@ -6,7 +6,7 @@ I like to code random things.
 [![Python](https://www.quintagroup.com/++theme++quintagroup-theme/images/logo_python_section.png)](https://python.org)
 [![HTML](https://img.icons8.com/material-outlined/2x/html-5.png)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS](https://www.proteusthemes.com/wp-content/uploads/2017/11/features-css-min.png)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![JS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuHnJDLOcdm_0b6N6kNj-1OvO9KhKYgqIy0w&s)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[![JS](https://www.globalcloudteam.com/wp-content/uploads/2023/08/javascript.webp)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
 ## My stats
 ![byAd12's Stats](https://github-readme-stats.vercel.app/api?username=byAd12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
