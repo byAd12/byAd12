@@ -3,14 +3,10 @@
 I like to code random things.
 
 ## Programming languages
-[![Python](https://www.quintagroup.com/++theme++quintagroup-theme/images/logo_python_section.png)](https://python.org)
-[![HTML](https://img.icons8.com/material-outlined/2x/html-5.png)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS](https://www.proteusthemes.com/wp-content/uploads/2017/11/features-css-min.png)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![JS](https://cdn.iconscout.com/icon/free/png-256/free-javascript-23-1174949.png?f=webp&w=128)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+![byAd12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## My stats
 ![byAd12's Stats](https://github-readme-stats.vercel.app/api?username=byAd12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![byAd12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## Links
 
