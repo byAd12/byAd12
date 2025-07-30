@@ -1,13 +1,11 @@
 <div align="center">
   
-# About me
-
 I like to code random things.
 
-## Programming languages
+### Programming languages
 ![byAd12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-## My stats
+### My stats
 ![byAd12's Stats](https://github-readme-stats.vercel.app/api?username=byAd12&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 
