@@ -10,11 +10,6 @@ I like to code random things.
 
 ## Links
 
-* [Website](https://byad12.pages.dev)
-* [Patreon](https://www.patreon.com/byAd12)
-* [Ko-Fi](https://ko-fi.com/byad12)
-* [PayPal](https://www.paypal.com/donate/?hosted_button_id=9D8YV9UW5LYKQ)
-
 <div style="display: flex;">
   <a href="https://byAd12.pages.dev"><img src="https://byad12.pages.dev/img/logo.ico" style="width: 50px; margin-right: 30px;"></a>
   <a href="https://www.patreon.com/byAd12"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/2048px-Patreon_logo.svg.png" style="width: 50px;"></a>
