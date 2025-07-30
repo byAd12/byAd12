@@ -15,5 +15,6 @@ I like to code random things.
 * [Ko-Fi](https://ko-fi.com/byad12)
 * [PayPal](https://www.paypal.com/donate/?hosted_button_id=9D8YV9UW5LYKQ)
 
-
-<img src="https://byad12.pages.dev/img/logo.ico" style="width: 30px;">
+<div style="display: flex;">
+  <a href="https://byAd12.pages.dev"><img src="https://byad12.pages.dev/img/logo.ico" style="width: 100px;"></a>
+</div>
