@@ -1,6 +1,4 @@
 <div align="center">
-  
-I like to code random things.
 
 ## Programming languages
 ![byAd12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
@@ -10,6 +8,10 @@ I like to code random things.
 
 
 ## 
+
+I like to code random things.
+
+
 <p align="center">
   <a href="https://byad12.pages.dev" target="_blank_">Adrián Leonardo Giménez Payo</a>  •  <a href="https://aili-ss.pages.dev" target="_blank_">aili-ss.pages.dev</a>
   <br>
