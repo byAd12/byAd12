@@ -1,8 +1,6 @@
 <div align="center">
 
-# byAd12
-
-## Programming languages
+# Programming languages
 ![byAd12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## My stats
