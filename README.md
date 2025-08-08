@@ -3,10 +3,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7CFB2D&center=true&vCenter=true&repeat=false&width=435&lines=I+like+coding+random+things." alt="Typing SVG" /></a>
 
 ## Programming languages
-![byAd12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+![byAd12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byAd12&theme=shadow_green&show_icons=true&hide_border=false&layout=compact)
 
 ## My stats
-![byAd12's Stats](https://github-readme-stats.vercel.app/api?username=byAd12&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+![byAd12's Stats](https://github-readme-stats.vercel.app/api?username=byAd12&theme=shadow_green&show_icons=true&hide_border=false&count_private=true)
 
 
 ## 
